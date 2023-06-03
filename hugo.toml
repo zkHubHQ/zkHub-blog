@@ -1,0 +1,4 @@
+baseURL = 'https://zkhub.github.io/zkHub-blog/'
+languageCode = 'en-us'
+title = 'zkHub Blog'
+theme = 'PaperMod'
