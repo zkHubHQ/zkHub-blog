@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>zkHub Blog</title>
-    <link>https://zkhub.github.io/zkHub-blog/</link>
+    <link>https://blog.zkhub.dev/</link>
     <description>Recent content on zkHub Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Jun 2023 11:32:29 +0530</lastBuildDate><atom:link href="https://zkhub.github.io/zkHub-blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Jun 2023 11:32:29 +0530</lastBuildDate><atom:link href="https://blog.zkhub.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fast and Secure: Unveiling zkHub&#39;s Cutting-Edge Proof Generation Technique</title>
-      <link>https://zkhub.github.io/zkHub-blog/docs/first_blog/</link>
+      <link>https://blog.zkhub.dev/docs/first_blog/</link>
       <pubDate>Sat, 03 Jun 2023 11:32:29 +0530</pubDate>
       
-      <guid>https://zkhub.github.io/zkHub-blog/docs/first_blog/</guid>
+      <guid>https://blog.zkhub.dev/docs/first_blog/</guid>
       <description>Hello World!
 We&amp;rsquo;re thrilled to bring to you the inaugural blog post for zkHub - the future of proof generation that champions privacy above all else. It&amp;rsquo;s highly likely that you&amp;rsquo;ve stumbled upon zero-knowledge proofs if you&amp;rsquo;ve had any engagement with the world of cryptocurrency.
 Zero-knowledge proofs are the art of convincing without giving away the secret. It&amp;rsquo;s like performing a magic trick where you demonstrate your knowledge, but the audience, though convinced of your knowledge, remains baffled about how you did it!</description>
