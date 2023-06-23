@@ -1,6 +1,6 @@
 ---
 title: "Fast and Secure: Unveiling zkHub's Cutting-Edge Proof Generation Technique"
-date: 2023-06-03T11:32:29+05:30
+date: 2023-23-03T11:32:29+05:30
 draft: false
 ---
 
