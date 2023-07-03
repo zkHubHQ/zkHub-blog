@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://blog.zkhub.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fast and Secure: Unveiling zkHub&#39;s Cutting-Edge Proof Generation Technique</title>
-      <link>https://blog.zkhub.dev/docs/first_blog/</link>
+      <title>Fast and Private: How zkHub uses MPC to generate zk-proofs</title>
+      <link>https://blog.zkhub.dev/docs/mpc_meets_zk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.zkhub.dev/docs/first_blog/</guid>
+      <guid>https://blog.zkhub.dev/docs/mpc_meets_zk/</guid>
       <description>Hello World!
-We&amp;rsquo;re thrilled to bring to you the inaugural blog post for zkHub - the future of proof generation that champions privacy above all else. It&amp;rsquo;s highly likely that you&amp;rsquo;ve stumbled upon zero-knowledge proofs if you&amp;rsquo;ve had any engagement with the world of cryptocurrency.
+We&amp;rsquo;re thrilled to introduce you to zkHub - the future of proof generation that champions speed and privacy above all else. It&amp;rsquo;s highly likely that you&amp;rsquo;ve stumbled upon zero-knowledge proofs if you&amp;rsquo;ve had any engagement with the world of cryptocurrency.
 Zero-knowledge proofs are the art of convincing without giving away the secret. It&amp;rsquo;s like performing a magic trick where you demonstrate your knowledge, but the audience, though convinced of your knowledge, remains baffled about how you did it!</description>
     </item>
     
