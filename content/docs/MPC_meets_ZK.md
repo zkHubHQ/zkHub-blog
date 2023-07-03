@@ -1,12 +1,12 @@
 ---
-title: "Fast and Secure: Unveiling zkHub's Cutting-Edge Proof Generation Technique"
+title: "Fast and Private: How zkHub uses MPC to generate zk-proofs"
 date: 2023-23-03T11:32:29+05:30
 draft: false
 ---
 
 Hello World!
 
-We're thrilled to bring to you the inaugural blog post for zkHub - the future of proof generation that champions privacy above all else. It's highly likely that you've stumbled upon zero-knowledge proofs if you've had any engagement with the world of cryptocurrency. 
+We're thrilled to introduce you to zkHub - the future of proof generation that champions speed and privacy above all else. It's highly likely that you've stumbled upon zero-knowledge proofs if you've had any engagement with the world of cryptocurrency. 
 
 Zero-knowledge proofs are the art of convincing without giving away the secret. It's like performing a magic trick where you demonstrate your knowledge, but the audience, though convinced of your knowledge, remains baffled about how you did it!
 
@@ -17,15 +17,15 @@ Firstly, they can help to maintain the confidentiality of information that only 
 Secondly, these techniques enable you to prove that you possess something that everyone is aware of. In a blockchain network, you can use your private key to generate a signature, proving that you are the owner of a specific public key or a set of digital coins without revealing your private key.
 However, these traditional methods have limitations. Specifically, you can't simultaneously keep something private (i.e., withhold the actual information) while also publicly proving that you own it, because that would require revealing the very information you're trying to keep secret.
 
-With zk-proofs, you can do both at the same time!
+With zk-proofs, you can do both at the same time! Zk-proofs are composible cryptographic primitives, meaning that you can compose a cryptographic proof of *any* statement and prove it's validity, while keeping the data required to prove the statement private.
 
 This enables different kinds of use cases - 
 
 **Composable Identity Solutions**
 
-Social Media users can anonymously prove their age, personal information, and the authenticity of their profiles without revealing sensitive personal data. 
+Social Media users can anonymously prove their age, personal information, using government issued IDs, without disclosing those documents or any personal information at all!
 
-DeFi users can prove their creditworthiness without revealing any personal data 
+DeFi users can prove their creditworthiness in the same way!
 
  ****************Multiplayer Games that stay forever****************
 
